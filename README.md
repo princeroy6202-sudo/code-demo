@@ -1,3 +1,3 @@
 # code-demo
 this is my first git repository.
-author - prince
+author - prince roy
